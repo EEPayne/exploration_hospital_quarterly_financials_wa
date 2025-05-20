@@ -1,10 +1,10 @@
 # Project Tasks to Complete
 
-- Agree on any cleaning/preprocessing steps (Scaling, missing data, etc)
+- Agree on any cleaning/preprocessing steps (Scaling, missing data, etc), (Do careful scaling for each feature for each clustering method)
 - PCA
 - Data Interpolation with PCA (Matrix Completion)
-- K-Means Clustering (With tuning k and initialization)
-- Hierarchical Clustering (with tuning k, linkage, and distance measure)
+- K-Means Clustering (With tuning k and initialization, plots)
+- Hierarchical Clustering (with tuning k, all three linkage types from slides, plot dendograms)
 - Blog, Intro
 - Blog, Technical, PCA
 - Blog, Technical, Matrix Completion

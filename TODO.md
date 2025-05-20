@@ -1,0 +1,24 @@
+# Project Tasks to Complete
+
+- Agree on any cleaning/preprocessing steps (Scaling, missing data, etc)
+- PCA
+- Data Interpolation with PCA (Matrix Completion)
+- K-Means Clustering (With tuning k and initialization)
+- Hierarchical Clustering (with tuning k, linkage, and distance measure)
+- Blog, Intro
+- Blog, Technical, PCA
+- Blog, Technical, Matrix Completion
+- Blog, Technical, K-Means Clustering
+- Blog, Technical, Hierarchical Clustering
+- Blog, Methods
+- Blog, Results, PCA
+- Blog, Results, Matrix Completion
+- Blog, Results, K-Means Clustering
+- Blog, Results, Hierarchical Clustering
+- Blog, Discussion
+- Blog, Specific Criteria, Scree Plots
+- Blog, Specific Criteria, discussion 1, SVD interpretaion of U and V
+- Blog, Specific Criteria, discussion 2, data structure vs plot in first two principle components
+- Blog, SPecific Criteria, discussion 3, Clustering observations and interpretations
+- Blog, Conclusion
+- Blog, references

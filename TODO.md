@@ -6,19 +6,18 @@
 - K-Means Clustering (With tuning k and initialization, plots)
 - Hierarchical Clustering (with tuning k, all three linkage types from slides, plot dendograms)
 - Blog, Intro - Doah
-- Blog, Technical, PCA
-- Blog, Technical, Matrix Completion
+- Blog, Technical, PCA - ???
+- Blog, Technical, Matrix Completion - Jeevitha
 - Blog, Technical, K-Means Clustering - Doah
-- Blog, Technical, Hierarchical Clustering
-- Blog, Methods
-- Blog, Results, PCA
-- Blog, Results, Matrix Completion
+- Blog, Technical, Hierarchical Clustering - Elling
+- Blog, Methods - ???
+- Blog, Results, PCA - Elling
+- Blog, Results, Matrix Completion - Jeevitha
 - Blog, Results, K-Means Clustering - Doah
-- Blog, Results, Hierarchical Clustering
-- Blog, Discussion
-- Blog, Specific Criteria, Scree Plots
-- Blog, Specific Criteria, discussion 1, SVD interpretaion of U and V
-- Blog, Specific Criteria, discussion 2, data structure vs plot in first two principle components - Doah (Part C)
-- Blog, SPecific Criteria, discussion 3, Clustering observations and interpretations 
-- Blog, Conclusion
+- Blog, Results, Hierarchical Clustering - Elling
+- Blog, Specific Criteria Discussion 1, Scree Plots - Elling
+- Blog, Specific Criteria discussion 2, SVD interpretaion of U and V - Jeevitha
+- Blog, Specific Criteria discussion 3, data structure vs plot in first two principle components - Doah (Part C)
+- Blog, SPecific Criteria discussion 4, Clustering observations and interpretations - Elling - Doah
+- Blog, Conclusion - ???
 - Blog, references

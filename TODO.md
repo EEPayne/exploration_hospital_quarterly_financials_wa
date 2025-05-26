@@ -5,20 +5,20 @@
 - Data Interpolation with PCA (Matrix Completion)
 - K-Means Clustering (With tuning k and initialization, plots)
 - Hierarchical Clustering (with tuning k, all three linkage types from slides, plot dendograms)
-- Blog, Intro
+- Blog, Intro - Doah
 - Blog, Technical, PCA
 - Blog, Technical, Matrix Completion
-- Blog, Technical, K-Means Clustering
+- Blog, Technical, K-Means Clustering - Doah
 - Blog, Technical, Hierarchical Clustering
 - Blog, Methods
 - Blog, Results, PCA
 - Blog, Results, Matrix Completion
-- Blog, Results, K-Means Clustering
+- Blog, Results, K-Means Clustering - Doah
 - Blog, Results, Hierarchical Clustering
 - Blog, Discussion
 - Blog, Specific Criteria, Scree Plots
 - Blog, Specific Criteria, discussion 1, SVD interpretaion of U and V
 - Blog, Specific Criteria, discussion 2, data structure vs plot in first two principle components
-- Blog, SPecific Criteria, discussion 3, Clustering observations and interpretations
+- Blog, SPecific Criteria, discussion 3, Clustering observations and interpretations - Doah (Part C)
 - Blog, Conclusion
 - Blog, references

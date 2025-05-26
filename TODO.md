@@ -18,7 +18,7 @@
 - Blog, Discussion
 - Blog, Specific Criteria, Scree Plots
 - Blog, Specific Criteria, discussion 1, SVD interpretaion of U and V
-- Blog, Specific Criteria, discussion 2, data structure vs plot in first two principle components
-- Blog, SPecific Criteria, discussion 3, Clustering observations and interpretations - Doah (Part C)
+- Blog, Specific Criteria, discussion 2, data structure vs plot in first two principle components - Doah (Part C)
+- Blog, SPecific Criteria, discussion 3, Clustering observations and interpretations 
 - Blog, Conclusion
 - Blog, references
